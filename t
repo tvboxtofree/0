@@ -3,11 +3,11 @@
 //
 
 {
-{"key":"drpy_js_豆瓣","name":"豆瓣[js]","type":3,"api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/drpy.js"},
-/*------------------------分割线------------------------*/
 "spider":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1714919832106/fan.txt;md5;4e1e8b71199c4a7f2daf0336cb42bad9",
 "wallpaper":"https://深色壁纸.xxooo.cf/",
 "sites":[
+{"key":"drpy_js_豆瓣","name":"豆瓣[js]","type":3,"api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/drpy.js"},
+/*------------------------分割线------------------------*/
 {"key":"Nbys","name":"🛫泥視頻","type":3,"api":"csp_NiNi","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"原创","name":"☀原创","type":3,"api":"csp_YCyz","timeout":15,"searchable":1,"quickSearch":1,"changeable":1},
 {"key":"小点","name":"💥小点","type":3,"api":"csp_Xdys","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
